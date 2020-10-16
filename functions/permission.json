@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "test-quadra-diffusion",
+  "private_key_id": "933a1529e5183e59c2e44b6dd1d2f8cdcc721320",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiainV7E3ZpXJe\nkbmVV60TxBc10szXWXb9To+aakJ8xkyyDNtSlvFJ9mmrVQe6mpPhgA8IXR1GUCOw\nsAQ2M8dkPnUscZaZUDHvFC9YVB+g9HantbD7bwiakjE5hDja/jAcR5IYmhh2JJJf\ngaxxeaMeFpWE1lDKesaKbrFQw9zura4ZyOj1uGCSzCjOAHb/+356udjE2iAPEj50\n6PsHIiPE8RUZLctNXELrGjYs0iVFvwR6+YPOyODKBo6Xt9jSEDmjbJPKs72J9J8D\nmQ1mQk+FrXOALZUQRaHaCPpFSBmBsONRmxXPIrLHdsOvJ2K6PmVrvFlcPdoPvZeQ\nsQhDRTMHAgMBAAECggEATuo9nKN+ai/RA/FTlqRsxOtlCbJ89HAUeF0JOpLB7oWd\ns2+6y4TrBbCUxHqC0GEWVJ3X8AzqUgVTaiEEUt/S1LriTS996M2GDbAllwn8+kR+\nONv3/BuFtzEseNFtnL6gWsVNz+Vj2FfJxV0pEFP1dYOsr8hApjmEqbPCNUeN3GxC\nGr71PlMnt5cAReg/jKKP1o/K76oWBvjFeDKPRS5W4CYO/MutYdAolOQ3sX9lo0CX\nrz2PiEfrku7bZle3Ku0pl7UpyrBMT6ALNuiatL2qxB3tRrEGG5U/kTPN6Sb2qVY4\nsn/dIxRsPE0qQSTXeNXlyTdZgtjySI1cmcx5dg3vbQKBgQDUE9AALBQ/GeK1jT3j\nQ6H2L6BuVnSBkiIqrAerJ3H9DZiy05gIa2IiVVtHk7zTZ9rg9t+INNOm1L/UQ1/U\nNpBavUxHu+wsoOEOMCYrps5dsZCs/qg3+MMqaVKVqy7UdjlkTEOlRpV2sjPKcCvx\n81SduvbP+QhYqsa66hL/FOrwmwKBgQDEDUWBBqPoygTSN9gjjlkN5M1LpR/aNCCY\nVEP8ofxGa1mg/eGJ1v66A9FYa/tjTH+OKbWfLsQcgds6ObFLZoeg5IlNelU07uj9\npH0RFKFoLE5iBH23QYUuwdim0GnRLwqs+tiCfVtBeLuehA0cKnDlV7YCy7RTGqCp\nwrv20rOABQKBgAldbpvzVlmK/RXjTM5SWD6Uz9LPgomOOHAF9Li8Hy57gTi0W0xT\n4Zt+hW9duMLlHSc9/5T2MDp3vpjS+NJYLnuzTEEGrWEzIX0M50KaNRayFp9tB2Sh\nWYzv5bOyQXkkV1h0fbA4s7TwHZVc6rPeeOgWL3vzlUjFEc2DNJ+K/uztAoGAIYjL\nnLhQDR+RF4wp0lsk7HV4kDncauyDrsqrHmlux3TRTfJfQ76cr6C7jE5cH64UG3MS\n9/l93gpwP1Ni+iy9gk3VFoWYUYeUHt6l7egDe9goSCfQgSoZ59eMgWwgzYEoaFI3\n+ooKs/Y80W5w96Ji0TfhkDTb0WM6nA8NK7j6rykCgYARXlnfaZzOsU7cu/1U7nTS\nCKHJbzX+ajT27kcYfQjgzPHNaphnLV/cPKCCdRw+Zvj+MMmBeH7pnBJytSw87QQv\nTfGMdeC2pnbkv6BiCujLxv9qdy5ANm7H7PO29zLphZZT0viwYPkLv3+Sg0MMahEI\nD6rO7teazpov5sg6XGecWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-uiesw@test-quadra-diffusion.iam.gserviceaccount.com",
+  "client_id": "101322479617014130795",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-uiesw%40test-quadra-diffusion.iam.gserviceaccount.com"
+}
