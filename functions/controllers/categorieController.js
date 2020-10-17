@@ -16,6 +16,7 @@ module.exports = {
                 for (let doc of docs) {
                     const selectedItem = {
                         id: doc.id,
+                        icon:doc.data().icon,
                         item: doc.data().item
                     };
                     response.push(selectedItem);
@@ -36,7 +37,7 @@ module.exports = {
      */
     createCategorie: async (req, res)=>{
             try {
-                await db.collection('items').add({item: req.body.item});
+                await db.collection('items').add({item: req.body.categorie});
                 return res.status(200).send(req.body);
             } catch (error) {
                 console.log(error);
